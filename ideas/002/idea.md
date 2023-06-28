@@ -75,6 +75,10 @@ cp -r $TEMPLATE_DIR $IDEA_DIR
 
 echo "Created new idea directory: $IDEA_DIR"
 
-
-
 ```
+
+- I will need to figure out what that script does.
+- test driven development?
+- I need to ask more questions
+
+This is the end of this idea. Ideas are fleeting.
